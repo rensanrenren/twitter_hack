@@ -10,3 +10,4 @@
    - A×Bの掛け合わせ
 
 ## いいねのやり方
+- [「保存版」いいねのやり方](https://github.com/rensanrenren/twitter_hack/issues/2)
