@@ -3,7 +3,7 @@
 ### Twitter公式アルゴリズム公開
 - Twitter公式Githubアカウント https://github.com/twitter
 - the-algorithm https://github.com/rensanrenren/the-algorithm
-
+- アルゴリズム解説(5月版) https://twitter.com/masahirochaen/status/1659808009328160773?s=46&t=6n-Jwab8jzWBWhyh2vxpaQ
 
 ## ツイート作成方法
 - ツイプロ人気ツイート参考
